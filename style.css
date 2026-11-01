@@ -34,7 +34,7 @@ nav {
 .menu {
     background-color: transparent;
     color: white;
-    border: none;
+    border: soid 3px black;
     font-size: 14px;
     font-family: sans-serif;
     letter-spacing: 2px;
